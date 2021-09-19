@@ -94,3 +94,7 @@ section.pricing div p {
     padding: 10px 45px;
 }
 
+/*Solution Page*/
+#vprospect, #vconvert, #vretain {
+    font-weight: bold;
+}
