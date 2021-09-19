@@ -38,8 +38,8 @@ h2 {
 
 p img {
     vertical-align: text-top;
-    padding-right: 5px;
-    padding-bottom: 10px;
+    float: left;
+    margin: 5px 10px 0 0;
 }
 
 /*About Us Page*/
